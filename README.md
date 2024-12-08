@@ -78,4 +78,83 @@ Description: Find information about the owner of a Telegram account: groups they
 
 ## ✅ Search by VK account <a name="vk-check"></a>
 
-Description:
+Description:  
+Learn the activity history on VKontakte, including deleted photos, friend groups, and public data.
+
+1. [VKHistoryRobot](https://t.me/VKHistoryRobot) — Profile history from 2010 to 2023, including avatars. You need to enter the numeric ID of the page.
+2. [Social Graph](https://t.me/social_graph_osint_bot?start=7061387827) — Builds a friend graph based on a public profile, showing groups like family, colleagues, school friends, etc.
+3. [FindNameVk](https://t.me/FindNameVk_bot) — Searches the history of surname changes on a profile from open sources and provides the account creation date.
+4. [Vbiv](https://t.me/Vbib_bot) — Finds deleted photos from an account, sometimes phone numbers and emails.
+
+## 🗂 Parsers:
+6. [Aximo](https://t.me/aximobot?start=ref7061387826) — Instantly saves new posts from a VKontakte account.
+7. [Parser Pro](https://t.me/botparser_bot?start=7061387826) — Helps scrape the target audience from chats and more!
+
+## 🚗 Car Lookup <a name="car-check"></a>
+
+Description: Get full information about a vehicle by its VIN code or license plate number.
+
+1. [Autogram](https://t.me/ABTOGRAMBOT?start=7061387826) — Service to search for vehicle information by license plate number and earn real money from it.
+2. **[AVinfo](https://t.me/avinfo?start=ref3398538)** — Search by license plate, VIN, phone number, photo, IP, email, company TIN, and PTS number.  
+   └ Promo: HLGSTART
+3. [Fines and Taxes](https://t.me/ShtrafKZBot?start=f9c001a068a74c10b) — Bot to check fines by IIN/BIN, license plate, tech passport number, and contractors.
+4. [Opendatabot](https://telegram.me/OpenDataUABot?start=source_share-cc_5649321) — Search and monitor open government data for companies, citizens, and vehicles.
+5. [Noblack-auto](https://t.me/noblackAuto_bot) — Provides vehicle information, including location data from traffic camera registrations.
+6. [VIN01](https://t.me/vin01bot) — Check vehicle by VIN and license plate, with reviews and favorite management.
+7. [Avtocod](https://t.me/avtocodbot) — Vehicle check by VIN, chassis number, or state registration plate.
+8. [Easy VIN](https://t.me/EasyVINbot) — Affordable way to check vehicle history by VIN or license plate.
+
+## 📃 Document Lookup (Contractors) <a name="dok-check"></a>
+
+Description: Find information about individuals and legal entities by TIN, passports, and other documents.
+
+1. [Fines and Taxes](https://t.me/ShtrafKZBot?start=f9c001a068a74c10b) — Bot for checking fines by IIN/BIN, license plate, tech passport number, contractors, and more.
+2. [EGRUL](https://t.me/egrul_bot) — Finds basic information about a company or individual entrepreneur.
+3. [AgentFNS](https://t.me/AgentFNS_bot) — Checks any company against the Tax Office and Central Bank blacklists, and collects information for due diligence files.
+4. [Check by TIN](https://t.me/kontrgood_bot) — Free service for checking contractors in Russia.
+
+## 👨‍🦳 Classmates Lookup <a name="ok-check"></a>
+
+Description: Get information about a Classmates user.
+
+1. [Social Graph](https://t.me/social_graph_osint_bot?start=7061387827) — Builds a graph of friends from a public profile, showing who is friends with whom. The graph shows groups like family, colleagues, school friends, and more.
+2. [🔥 Oracle](https://t.me/Orakul_OSINT_bot?start=7061387826) — Search by phone number, Telegram, name, vehicle, VIN, social media links, passport, TIN, SNILS, email, card number, address, photo.
+3. [Detective](https://t.me/Detectiva_OSINT_2bot?start=ref7061387826) — Search by phone, email, VK, Instagram, OK, Facebook.
+4. [Universal Search](https://t.me/UniversalSearchEasyBot?start=7061387826) — Search for city, street, house or apartment number, accounts, and more. Can search in other bots.
+
+## 🗂 Parsers:
+5. [Aximo](https://t.me/aximobot?start=ref7061387826) — Instantly saves new posts from VK accounts.
+
+## 👁‍🗨 Others <a name="ds-check"></a>
+
+1. [🔥 Discord Sensor](https://t.me/discordsensorbot?start=kentId7061387826) - Powerful tool for analyzing Discord data.
+
+## Disclaimer
+
+⚠️ Bots are intended solely for reviewing and checking your own data to identify leaks and protect personal information. We strongly do not support or encourage the use of bots for any illegal activities.
+
+## Frequently Asked Questions (FAQ)
+
+### What is OSINT?
+OSINT is Open Source Intelligence, which involves gathering information from public sources such as social networks, databases, open registries, and more.
+
+### How do OSINT bots work?
+OSINT bots use APIs, public databases, and other open sources to gather information. They allow automatic collection of publicly available data and analyze it for subsequent use.
+
+### Is data searching legal?
+The legality of using OSINT bots depends on the purpose and local laws. Always check local regulations to avoid illegal activities. In many countries, using such bots for illegal access to personal information may be punishable by law.
+
+---
+
+## Conclusion
+Use the best OSINT bots to search for information about people and objects. All bots are tested and suitable for quick searches of phone numbers, social networks, cars, and documents. However, it is important to always follow the law and use tools ethically.
+
+---
+
+## SEO Optimization (Meta Tags)
+
+- **Title**: OSINT Bots and Data Search — Telegram, VKontakte, Phone, Car, and Documents.
+- **Description**: Bots for searching data by phone number, Telegram accounts, VK, and cars. Top OSINT and de-anonymization services.
+- **Keywords**: OSINT bots, phone lookup, Telegram lookup, VK lookup, car lookup, VIN code, documents, de-anon, data search.
+
+---
